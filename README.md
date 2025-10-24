@@ -14,6 +14,8 @@ A modern, responsive weather application that provides real-time weather informa
 
 ## Screenshots
 <img width="1001" height="948" alt="image" src="https://github.com/user-attachments/assets/c9b9f12f-e000-4b40-bd10-6c46f90d5d08" />
+
+
 <img width="1329" height="946" alt="Screenshot 2025-10-24 195319" src="https://github.com/user-attachments/assets/a65bbd30-7423-46b3-9c1a-3e80b7c165a4" />
 
 
